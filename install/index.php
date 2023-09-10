@@ -607,17 +607,17 @@ function Wo_SubmitButton() {
 </script>
 <style>
     .btn-main {
-        color: #ffffff;
-        background-color: #04abf2;
-        border-color:#04abf2;
+        color: #222;
+        background-color: #F5DC00;
+        border-color:#F5DC00;
     }
     .btn-main:disabled {
         color: #333;
         border: none;
     }
     .btn-main:hover {
-        color: #ffffff;
-        background-color: #04abf2;
-        border-color:#04abf2;
+        color: #222;
+        background-color: #F5DC00;
+        border-color:#F5DC00;
     }
 </style>

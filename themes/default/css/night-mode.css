@@ -96,11 +96,11 @@ input { color: #eee !important; }
 li { color: #eee !important; background: transparent !important}
 li.sort-comments a:hover { }
 
-.mejs-qualities-selected { color: #04abf2 !important; }
+.mejs-qualities-selected { color: #F5DC00 !important; }
 .carousel-inner {
 	border: 2px dashed #fff;
 }
-.mejs__qualities-selected { color: #04abf2 !important; }
+.mejs__qualities-selected { color: #F5DC00 !important; }
 
 .setting-panel input[type='text'] { color: #eee !important; }
 .setting-panel input[type='password'] { color: #eee !important; }
@@ -247,7 +247,7 @@ hr { border-color: #424242 !important; }
 .alert p { color: #8a6d3b !important; }
 .alert h4 { color: #8a6d3b !important; }*/
 
-.main-color { color: #04abf2 !important; }
+.main-color { color: #F5DC00 !important; }
 
 .next-video { border-bottom: none !important; }
 
@@ -325,7 +325,7 @@ footer .footer-container { background: #0f0f0f !important; box-shadow: none !imp
 
 .upload-head hr { border-color: #424242 !important; }
 
-.video-menu ul li span:hover { background: #04abf2 !important; color: #fff !important; }
+.video-menu ul li span:hover { background: #F5DC00 !important; color: #fff !important; }
 
 .text-center.no-content-found { color: #eee !important; }
 
@@ -368,7 +368,7 @@ footer .footer-container { background: #0f0f0f !important; box-shadow: none !imp
 
 .user-send-message textarea { box-shadow: none !important; }
 
-/*#new-message-form #send-button { color: #04abf2 !important; background-color: rgba(0, 0, 0, 0.3); }*/
+/*#new-message-form #send-button { color: #F5DC00 !important; background-color: rgba(0, 0, 0, 0.3); }*/
 #new-message-form #send-button:hover { background-color: transparent; }
 
 .pt_footer .container-fluid { background: #212121 !important; border-top: solid 1px #111111; }

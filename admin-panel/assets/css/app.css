@@ -10656,20 +10656,20 @@ body.dark .submit-new-article-settings .preview-article-image:hover {
 .select_user_perm svg {
 	width: 45px !important;
     height: auto !important;
-    background-color: #04abf2;
+    background-color: #F5DC00;
     color: #fff;
     border-radius: 50%;
     padding: 9px;
     margin-bottom: 20px;
 }
 .select_user_perm.btn-info {
-	background-color: #04abf2 !important;
+	background-color: #F5DC00 !important;
     color: #fff !important;
-    border-color: #04abf2 !important;
+    border-color: #F5DC00 !important;
 }
 .select_user_perm.btn-info svg {
 	background-color: #fff;
-    color: #04abf2;
+    color: #F5DC00;
 }
 body.dark .select_user_perm {
     background: rgb(255 255 255 / 5%) !important;
@@ -10677,9 +10677,9 @@ body.dark .select_user_perm {
     color: #e1e1e1 !important;
 }
 body.dark .select_user_perm.btn-info {
-	background-color: #04abf2 !important;
+	background-color: #F5DC00 !important;
     color: #fff !important;
-    border-color: #04abf2 !important;
+    border-color: #F5DC00 !important;
 }
 .ch_light_color{
   background-color: #be3e44bf !important;
